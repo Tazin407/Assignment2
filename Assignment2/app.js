@@ -114,16 +114,3 @@ let sortview=async()=>{
 
 
 
-
- // function sortByView(a,b){
-    //     if( a.others.views > b.others.views){
-    //         return -1;
-    //     }
-    //     else if( a.others.views < b.others.views){
-    //         return 1;
-    //     }
-    // }
-
-    // info.data.sort(sortByView);
-
-
